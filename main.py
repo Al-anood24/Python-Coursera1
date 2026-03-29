@@ -1,1 +1,1 @@
-print("Hello Python is working!")
+print("Testing GitHub connection")
